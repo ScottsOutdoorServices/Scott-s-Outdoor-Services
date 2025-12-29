@@ -1,0 +1,128 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scott’s Outdoor Services | Mason, MI</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #000000; /* black background */
+      color: #22c55e; /* green text */
+    }header {
+  background-color: #000000;
+  border-bottom: 3px solid #22c55e;
+  text-align: center;
+  padding: 24px 16px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+header p {
+  margin: 6px 0;
+  font-size: 18px;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+section {
+  border: 2px solid #22c55e;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 26px;
+  border-bottom: 2px solid #22c55e;
+  padding-bottom: 6px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+li {
+  margin: 8px 0;
+  font-size: 18px;
+}
+
+.pricing li {
+  font-weight: bold;
+}
+
+.contact {
+  text-align: center;
+}
+
+.contact a {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 12px 20px;
+  border: 2px solid #22c55e;
+  border-radius: 10px;
+  color: #22c55e;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 16px;
+  font-size: 14px;
+  border-top: 2px solid #22c55e;
+}
+
+  </style>
+</head>
+<body> <header>
+    <h1>Scott’s Outdoor Services</h1>
+    <p>Year-Round Lawn & Snow Care</p>
+    <p><strong>Text or Call: 517-899-3404</strong></p>
+  </header> <main>
+    <section>
+      <h2>Services</h2>
+      <ul>
+        <li>Lawn Mowing</li>
+        <li>Trimming & Edging</li>
+        <li>Leaf Cleanup</li>
+        <li>Snow Blowing</li>
+      </ul>
+    </section><section>
+  <h2>Pricing (Minimum Prices)</h2>
+  <p>Prices listed are minimums and may vary based on yard size, condition, or service needs.</p>
+  <ul class="pricing">
+    <li>Mowing – $50 minimum</li>
+    <li>Leaf Cleanup – $30 minimum</li>
+    <li>Snow Blowing – $30 minimum</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About</h2>
+  <p>
+    Scott’s Outdoor Services is a local, reliable yard-care business serving Mason, Michigan and surrounding areas.
+    We provide quality work, fair pricing, and dependable service all year long.
+  </p>
+</section>
+
+<section class="contact">
+  <h2>Get an Estimate</h2>
+  <p>Text or call today to schedule service.</p>
+  <a href="tel:15178993404">Text / Call 517-899-3404</a>
+</section>
+
+  </main> <footer>
+    <p>© Scott’s Outdoor Services | Mason, MI</p>
+  </footer></body>
+</html>

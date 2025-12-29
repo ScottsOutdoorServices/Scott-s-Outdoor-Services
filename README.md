@@ -3,14 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Scott’s Outdoor Services | Mason, MI</title>
-
+  <title>Scott’s Outdoor Services | Ingham County, MI</title>
   <style>
     body {
       margin: 0;
       font-family: Arial, Helvetica, sans-serif;
-      background-color: #000000;
-      color: #22c55e;
+      background-color: #000000; /* black background */
+      color: #22c55e; /* green text */
     }
 
     header {
@@ -38,9 +37,9 @@
 
     section {
       border: 2px solid #22c55e;
-      border-radius: 14px;
-      padding: 22px;
-      margin-bottom: 24px;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
     }
 
     h2 {
@@ -56,7 +55,7 @@
     }
 
     li {
-      margin: 10px 0;
+      margin: 8px 0;
       font-size: 18px;
     }
 
@@ -85,30 +84,24 @@
       color: #000000;
     }
 
-    iframe {
-      border-radius: 12px;
-    }
-
     footer {
       text-align: center;
-      padding: 20px;
+      padding: 16px;
       font-size: 14px;
       border-top: 2px solid #22c55e;
     }
   </style>
 </head>
-
 <body>
 
 <header>
   <h1>Scott’s Outdoor Services</h1>
   <p><strong>Professional Lawn & Snow Care</strong></p>
-  <p>Serving Mason, MI & Surrounding Areas</p>
+  <p>Serving Ingham County, Michigan & Surrounding Areas</p>
   <p><strong>Call or Text: 517-899-3404</strong></p>
 </header>
 
 <main>
-
   <section>
     <h2>Our Services</h2>
     <ul>
@@ -132,8 +125,7 @@
   <section>
     <h2>Pricing</h2>
     <p>
-      All pricing is based on property size and service needs.
-      The prices below are starting rates. Free estimates available.
+      All pricing is based on property size and service needs. The prices below are starting rates. Free estimates available.
     </p>
     <ul class="pricing">
       <li>Lawn Mowing – starting at $50</li>
@@ -145,10 +137,7 @@
   <section>
     <h2>About Us</h2>
     <p>
-      Scott’s Outdoor Services is a locally owned business providing dependable
-      lawn care and snow removal in Mason, Michigan and nearby communities.
-      We take pride in delivering clean, professional results and reliable
-      service our customers can count on.
+      Scott’s Outdoor Services is a locally owned business providing dependable lawn care and snow removal in Ingham County, Michigan and nearby communities. We take pride in delivering clean, professional results and reliable service our customers can count on.
     </p>
   </section>
 
@@ -159,22 +148,11 @@
     <a href="sms:15178993404">Text for a Free Estimate</a>
   </section>
 
-  <section>
-    <h2>Service Area</h2>
-    <p>Mason, MI and surrounding communities</p>
-    <iframe
-      src="https://www.google.com/maps?q=Mason,MI&output=embed"
-      width="100%"
-      height="300"
-      loading="lazy">
-    </iframe>
-  </section>
-
 </main>
 
 <footer>
   <p>
-    © 2025 Scott’s Outdoor Services • Mason, MI<br>
+    © 2025 Scott’s Outdoor Services • Ingham County, MI<br>
     Call or Text: 517-899-3404
   </p>
 </footer>
